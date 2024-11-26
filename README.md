@@ -62,19 +62,6 @@ I’m **Maitry Bhamore**, a passionate **Flutter Team Leader**, **Senior Flutter
 
 ---
 
-## 🌍 **Experience with MNC Projects**  
-1. **Global E-Commerce Platform**:  
-   - Developed a scalable Flutter-based mobile app with millions of active users.  
-   - Integrated **payment gateways**, **live tracking**, and **real-time notifications** using Node.js and Socket.IO.  
-
-2. **Enterprise CRM Tool**:  
-   - Built a lead management system for a multinational client with **real-time analytics** and **custom dashboards**.  
-   - Integrated **Firestore** and designed a robust backend using **Node.js microservices**.  
-
-3. **Healthcare Video Processing System**:  
-   - Designed a video analysis tool for medical professionals using **FFmpeg** and **AI-based video processing models**.  
-
----
 
 ## 🌟 **Featured Projects**  
 ### 📱 **[Knowledge Empire](https://apps.apple.com/in/app/knowledge-empire/id1491903275)**  
