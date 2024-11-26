@@ -143,8 +143,14 @@ Turn job interviews into triumphs with AI-powered coaching for students and youn
 
 ---
 
+### 📊 **GitHub Stats**  
+![Maitry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maitry1999&show_icons=true&theme=radical&hide=stars&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitry1999&layout=compact&theme=radical)
+
+---
+
 ## 📞 **Let’s Connect**  
-- ✨ [LinkedIn](https://www.linkedin.com/in/maitry-bhamore-903bbb127/)  
-- ✨ [Email](mailto:bhamoremaitry@gmail.com)  
-- ✨ [Portfolio](https://maitry-protfolio.web.app/)
-- ✨ [WhatsApp](https://wa.me/918000541577)
+- ✨ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitry-bhamore-903bbb127/)  
+- ✨ [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918000541577)  
+- ✨ [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhamoremaitry@gmail.com)
+- ✨ [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=google-chrome&logoColor=white)](https://maitry-protfolio.web.app/)
