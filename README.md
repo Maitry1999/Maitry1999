@@ -54,14 +54,6 @@ I’m **Maitry Bhamore**, a passionate **Flutter Team Leader**, **Senior Flutter
 
 ---
 
-## 🏅 **Certifications**  
-- 📜 **Certified Flutter Developer** – [Certifying Organization]  
-- 📜 **Node.js Specialist** – [Certifying Organization]  
-- 📜 **AWS Solutions Architect - Associate** – Amazon Web Services  
-- 📜 **Data Structures and Algorithms** – [Certifying Organization]  
-
----
-
 
 ## 🌟 **Featured Projects**  
 ### 📱 **[Knowledge Empire](https://apps.apple.com/in/app/knowledge-empire/id1491903275)**  
